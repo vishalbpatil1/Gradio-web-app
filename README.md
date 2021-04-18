@@ -11,7 +11,7 @@ Gradio can be installed directly through pip. Creating a Gradio interface only r
 !pip install gradio
 ```
 ### Docs
-[ click here  to complete tutorial on gradio ](https://gradio.app/docs#i_slider)
+[ click here  to  see complete tutorial on gradio ](https://gradio.app/docs#i_slider)
 
 ### Code
 #### Run the code below as a Python script or in a Python notebook (or in a colab notebook).
