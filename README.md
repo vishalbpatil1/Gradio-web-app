@@ -10,11 +10,12 @@ Gradio can be installed directly through pip. Creating a Gradio interface only r
 # or
 !pip install gradio
 ```
-### Documentation
-[ click here ](https://gradio.app/docs#i_slider)
+### Docs
+[ click here  to complete tutorial on gradio ](https://gradio.app/docs#i_slider)
 
 ### Code
 #### Run the code below as a Python script or in a Python notebook (or in a colab notebook).
+
 ```python
 
 import gradio as gr
@@ -55,4 +56,8 @@ if __name__ == "__main__":
     
 ```
 ### App view
+#### When you run the code  above, you will get something like the following:
 ![image](https://github.com/vishalbpatil1/Gradio-web-app/blob/main/app_view.png)
+
+This is awesome UI for our machine learning models
+
