@@ -4,20 +4,17 @@ Gradio is an open-source Python library that allows you to build a user interfac
 Gradio can be installed directly through pip. Creating a Gradio interface only requires adding a couple lines of code to your project. You can choose from a variety of interface types to interface your function.
 
 ### Installation
-
-
-
+```bash
+# gradio is a Python package, so it can be installed with pip.
+!pip install --quiet gradio
+# or
+!pip install gradio
+```
 ### Documentation
 [ click here ](https://gradio.app/docs#i_slider)
 
 ### Code
-##### Run the code below as a Python script or in a Python notebook (or in a colab notebook).
-```bash
-# gradio is a Python package, so it can be installed with pip.
-!pip install --quiet gradio
-```
-
-
+#### Run the code below as a Python script or in a Python notebook (or in a colab notebook).
 ```python
 
 import gradio as gr
@@ -58,4 +55,4 @@ if __name__ == "__main__":
     
 ```
 ### App view
-[image](https://github.com/vishalbpatil1/Gradio-web-app/blob/main/app_view.png)
+![image](https://github.com/vishalbpatil1/Gradio-web-app/blob/main/app_view.png)
