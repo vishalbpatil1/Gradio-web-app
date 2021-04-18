@@ -58,4 +58,4 @@ if __name__ == "__main__":
     
 ```
 ### App view
-[image]()
+[image](https://github.com/vishalbpatil1/Gradio-web-app/blob/main/app_view.png)
